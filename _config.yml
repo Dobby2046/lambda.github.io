@@ -1,3 +1,21 @@
-title: "Zhang Gaofei · CV"
-description: "Academic practitioner · Higher Education"
+title: "Zhang Gaofei · 学术简历（CV）"
+description: "高等教育博士生｜学生发展・学术职业教育・教育信息化"
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# 方式 A：使用官方内置主题（推荐入门）
 theme: jekyll-theme-minimal
+
+# 方式 B：如需 remote_theme（把上面的 theme 注释掉）
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# 可选项（以后再加）：
+# logo: /assets/avatar.jpg
+# google_analytics: G-XXXXXXXXXX
+# url: https://YOUR_USERNAME.github.io
