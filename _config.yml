@@ -1,0 +1,4 @@
+# _config.yml
+title: "张三 · 简历"
+description: "后端工程师 / Go · Kubernetes"
+theme: jekyll-theme-minimal
