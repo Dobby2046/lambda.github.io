@@ -20,7 +20,6 @@ title: "Zhang Gaofei · 学术简历"
 ## 技能与工具
 - **方法**：量化（回归/多层/SEM）・质性（访谈/编码/NVivo）・混合方法  
 - **工具**：R / Python / Stata / 
----
 
 <a class="no-print" href="javascript:window.print()">🖨 打印/导出 PDF</a>  
 *最后更新：{{ site.time | date: "%Y-%m-%d" }}*
