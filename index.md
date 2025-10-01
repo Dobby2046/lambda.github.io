@@ -1,69 +1,26 @@
 ---
 layout: default
-title: "Zhang Gaofei · CV"
+title: "Zhang Gaofei · 学术简历"
 ---
 
-# Zhang Gaofei
-**Email:** <lambda2046@outlook.com>
+# 张高飞
+**电子邮箱**：<lambda2046@outlook.com>
 
-## Research Interests
-- Student Development
-- Academic Vocational Education
-- Informationization
+> **研究方向**：学生发展｜学术职业｜教育信息化
 
-## Education
-- **Xiamen University** — *PhD in Higher Education*, 2023–Present  
-  Dissertation: _[Working title]_ • Advisors: _[Names]_  
-  Keywords: student development; academic vocational education; informationization
+## 教育背景
+- **厦门大学** — *高等教育学 博士研究生*，2023–至今  
 
-## Publications
-### Peer‑Reviewed Articles
-1. Zhang, G., & Coauthor (Year). Title. *Journal Name*, Volume(Issue), pages. DOI
+## 发表论文
+[1]鲍威,何元皓,张高飞. 自主探索的时间贫困：高校学生时间配置及其结构性制约机制[J].教育研究,2024,45(12):124-139.DOI:CNKI:SUN:JYYJ.0.2024-12-010.
 
-### Conference Papers
-- Zhang, G. (Year, Month). Paper title. *Conference Name*, City, Country.
+[2]鲍威,何元皓,张高飞. 自控力对高校学生学业成就的驱动效应及其作用机制[J].中国高教研究,2024,(05):28-37.DOI:10.16298/j.cnki.1004-3667.2024.05.04.
 
-### Working Papers & Manuscripts
-- Title (in preparation / under review). Target journal: ...
 
-## Research Experience
-- **Project Title** — Research Assistant, YYYY–YYYY · Supervisor: [Name]  
-  Methods: [survey / interviews / quasi-experiment / mixed methods]  
-  Responsibilities: [data collection, analysis, instrument design, literature review]  
-  Contribution: [1–2 impact points]
+## 技能与工具
+- **方法**：量化（回归/多层/SEM）・质性（访谈/编码/NVivo）・混合方法  
+- **工具**：R / Python / Stata / 
+---
 
-## Teaching Experience
-- **Course Name** — TA/Instructor, Term Year · Department, Xiamen University  
-  Sections: [N]; Topics: [list]; Evaluations: [if available]
-
-## Grants & Projects
-- **Project Name** — Role: PI/Co‑I/RA, YYYY–YYYY · Funding: ¥xxx,xxx  
-  Summary: [1–2 sentences]. Deliverables: [dataset / report / paper].
-
-## Invited Talks & Presentations
-- **Talk/Workshop Title** — Venue, City, Date
-
-## Awards & Honors
-- **Award Name** — Issuer, Year
-- **Scholarship/Fellowship** — Organization, Year
-
-## Academic Service
-- **Peer Review:** Journals: [list]  
-- **Department/Community:** [committee roles, organizing seminars, mentoring]
-
-## Skills
-- **Methods:** Quantitative (R, Stata, SPSS; regression, multilevel, SEM);  
-  Qualitative (interviews, coding with NVivo); Mixed Methods
-- **Tools:** R / Python / Stata / SPSS · NVivo · LaTeX · Git · Markdown/Jekyll
-- **Languages:** Chinese (Native); English (Fluent)
-
-## Professional Memberships
-- Association Name — Member, Year–Year
-
-## Profiles
-- Google Scholar: https://scholar.google.com/citations?user=YOUR_ID  
-- ORCID: https://orcid.org/0000-0000-0000-0000  
-- GitHub: https://github.com/YOUR_USERNAME
-
-## References
-Available upon request.
+<a class="no-print" href="javascript:window.print()">🖨 打印/导出 PDF</a>  
+*最后更新：{{ site.time | date: "%Y-%m-%d" }}*
